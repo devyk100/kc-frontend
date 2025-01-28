@@ -16,7 +16,7 @@ export default function Whiteboard() {
 				components={{
 					SharePanel: NameEditor,
 				}}
-
+				
 				inferDarkMode
 			/>
 
